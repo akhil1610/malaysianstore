@@ -1,0 +1,40 @@
+ion-button.reset {
+  margin: 0;
+}
+
+ion-button.special {
+  margin-inline-start: 2px;
+}
+
+ion-item.separate {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.border {
+  border-radius: 7px;
+}
+
+ion-input {
+  --color: black;
+}
+
+.input-width {
+  width: 38px;
+  height: 25px;
+  background: white;
+  border: 1px solid #999;
+  border-radius: 7px;
+  color: black;
+  text-align: center;
+  padding: 1px;
+}
+ion-slides{
+  margin-top:30%;
+  background: #e6e6e6;
+  img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+  }
+}

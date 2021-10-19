@@ -18,7 +18,7 @@ export class FakeDataService {
       // Store #01
       {
         id: 'ZE00003',
-        name: 'Home Made Vegetarian Food',
+        name: 'Home  Food',
         raddress: 'Petaling Jaya. Selangor',
         reviewsCount: 6,
         qualification: 5,
